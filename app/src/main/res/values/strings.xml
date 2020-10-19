@@ -1,0 +1,7 @@
+<resources>
+    <string name="backendEmail">unamail</string>
+    <string name="backendPassword">unapassword</string>
+    <string name = "backendurl">unurl</string>
+    <string name = "backenduser">unuser</string>
+    <string name= "backendpassword">unapassword</string>
+</resources>
